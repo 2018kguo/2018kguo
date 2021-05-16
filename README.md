@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin
 
-I'm a junior studying computer science at UT Austin. Currently trying to survive this semester of online classes.
+I'm a senior studying computer science at UT Austin. Currently taking a gap year to work.
 
 💻 Check out my website at [2018kguo.github.io](https://2018kguo.github.io/)
 
