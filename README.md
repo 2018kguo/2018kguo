@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin
 
-I'm a software engineer at Ramp
+Previously at Ramp, now working on something new
 
 💻 Check out my website at [2018kguo.github.io](https://2018kguo.github.io/)
 
